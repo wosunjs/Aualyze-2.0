@@ -1,0 +1,33 @@
+21: 爆破（hydra、msf中的ftp爆破模块）
+22: 爆破（hydra、msf中的ssh爆破模块） 
+23: 爆破（hydra、msf中的ssh爆破模块）
+80: MS15-034 http.sys远程代码执行漏洞（windoiws 8.1, 2012, or 2012R2有效。）
+161: snmp默认团体名漏洞
+445: MS17-010永恒之蓝
+443: 心脏出血
+873: rsync未授权访问
+1099: java_rmi反序列化远程命令执行
+1433: SQLServer暴力破解
+1521: 弱口令 
+1883: mqtt未授权访问
+2049: nfs网络文件系统敏感信息泄漏漏洞（scanner/nfs/nfsmount）
+2181: zookeeper未授权访问
+2375: docker未授权访问
+3306: Mysql弱口令
+3389: 远程桌面弱口令
+5900: vnc未授权访问
+6000: X11弱口令 
+6379: redis未授权访问（dbscanner）
+6667: irc实时聊天服务，可提权
+7002: weblogic反序列化
+7777: jdwp-java远程命令
+8080: Tomcat弱口令', '1.html）
+8161: activemq远程代码执行
+9000: fastcgi远程代码执行
+9001: supervisor远程命令执行
+9090: websphere爆破/java反序列化/弱口令
+9200: elasticsearch未授权访问
+11211: memcached未授权访问(dbscanner)
+12345: 达梦数据库默认口令
+27017: mongodb未授权访问
+50070: hadoop未授权访问
